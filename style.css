@@ -1,0 +1,14 @@
+.letter{
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 3px;
+}
+.alphabet_box{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    justify-content: center;
+    margin-top: 200px;
+    gap: 3px;
+}
